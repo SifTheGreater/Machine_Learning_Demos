@@ -14,6 +14,7 @@ In each of the seperate folders I go over many algorithms, what follows is an in
   - Naive bayes Algorithm
   - Decision Tree Classifier
   - Random Forest Clasifier
+  - XGboosing classifier
   - Selection Template for all models
 - Clustering
   - Hierarchical Clustering
@@ -36,6 +37,9 @@ In each of the seperate folders I go over many algorithms, what follows is an in
 - Reinforcemnet Learning
   - Upper Confidence Bound Algorithm
   - Thompson Sampling Algorithm
+- Model Selection + Tuning
+  - k fold cross validation
+  - grid search tuning
 
 I will Continue adding to these algorithms as I learn and implement more. 
 
